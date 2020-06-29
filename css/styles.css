@@ -1,0 +1,13 @@
+.navbar-default{
+    background-color:lightblue;
+}
+h2{
+    background-color:lightcoral;
+    padding: 0.25em;
+    
+}
+section{
+    background-color: bisque;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+}
